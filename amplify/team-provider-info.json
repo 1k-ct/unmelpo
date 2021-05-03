@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-unmelpo-dev-61832-authRole",
+      "UnauthRoleArn": "arn:aws:iam::218613189783:role/amplify-unmelpo-dev-61832-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::218613189783:role/amplify-unmelpo-dev-61832-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-unmelpo-dev-61832-deployment",
+      "UnauthRoleName": "amplify-unmelpo-dev-61832-unauthRole",
+      "StackName": "amplify-unmelpo-dev-61832",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:218613189783:stack/amplify-unmelpo-dev-61832/f32898e0-ab8b-11eb-bfcf-06eb5b9bd6e3",
+      "AmplifyAppId": "d38tn3grilg9et"
+    },
+    "categories": {
+      "auth": {
+        "unmelpo7016014a": {}
+      }
+    }
+  }
+}
